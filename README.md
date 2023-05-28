@@ -5,6 +5,7 @@
 C#, .NET, XAML
 
 - 🔭 I work on [Uno.Extensions](https://github.com/unoplatform/uno.extensions) to improve the developer experience
+- 📚 Studying Computer Science at Georgia Southern University
 - 🌱 I’m always learning more about .NET
 - 💬 Ask me about the economy 
 - 📫 How to reach me: Email
