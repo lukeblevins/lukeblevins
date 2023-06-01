@@ -11,5 +11,5 @@ C#, .NET, XAML
 - 📫 How to reach me: Email
 - 📻 My favorite song is Flo Rida - Good Feeling
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I have autism, treatment-resistant depression, and ADHD
+- 🧠 I have autism, treatment-resistant depression, and ADHD
 
