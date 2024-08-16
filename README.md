@@ -2,7 +2,6 @@
 
 Using my 80,000 hours to evolve how anyone with an idea can apply technology to solve real problems.
 
-- 🔭 Proudly writing documentation and samples to help others build [cross-platform .NET apps](https://platform.uno)
 - 🌱 I’m always learning more about .NET
 - 📚 Enrolled in the undergraduate program for computer science at [Georgia Southern University](https://cec.georgiasouthern.edu/cs/degrees/computer-science-bs/)
 - 🎓 Planning for graduation by H1 2025
