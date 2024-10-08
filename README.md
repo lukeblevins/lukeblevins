@@ -1,11 +1,11 @@
 ### Luke Blevins
 
-Using my 80,000 hours to evolve how anyone with an idea can apply technology to solve real problems.
+Using the 80,000 hours of my career to solve the problems I care about.
 
-- 🌱 I’m always learning more about .NET
+- 🌱 I’m always learning more about the interplay between artificial intelligence and neuroscience
 - 📚 Enrolled in the undergraduate program for computer science at [Georgia Southern University](https://cec.georgiasouthern.edu/cs/degrees/computer-science-bs/)
-- 🎓 Planning for graduation by H1 2025
-- 💬 Ask me about the economy
+- 🎓 Planning for graduation by June 2025
+- 💬 Ask me about the promise of renewable energy
 - 📫 How to reach me: Email, Threads, LinkedIn
-- 📻 My favorite song is "Flo Rida - Good Feeling"
+- 📻 My favorite song is "Latch - Disclosure"
 - 🧠 I have autism, treatment-resistant depression, and ADHD
